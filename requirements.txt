@@ -1,0 +1,4 @@
+ipywidgets
+ipysheet
+pandas
+voila
